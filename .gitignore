@@ -1,0 +1,5 @@
+.idea
+**/pom.xml
+*.iml
+**/.shadow-cljs/**
+attempt1/public/js

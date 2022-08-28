@@ -1,0 +1,13 @@
+{:source-paths
+ ["src"]
+
+ :dependencies
+ []
+
+ :dev-http
+ {8080 {:root "public"}}
+
+ :builds
+ {:app
+  {:target :browser
+   :modules {:app {:entries [tanuki.one]}}}}}
