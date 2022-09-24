@@ -2,6 +2,8 @@
 
 An exploration of [Capabilties](http://habitatchronicles.com/2017/05/what-are-capabilities/) in Clojure(script), borrowing ideas from [Spritely Goblins](https://spritely.institute/goblins/).
 
+Current status: there's basically nothing here yet, trying to work things out.
+
 ## Attempts
 
  - [One](attempt1/README.md)
